@@ -11,8 +11,3 @@ For the UdaciCards project, you will build a mobile application (Android or iOS 
 ## Why this project?
 This project encompasses the fundamental aspects of building a native application including handling infinite lists, routing, and user input. By building this project, you will gain an understanding of how to use React Native to build an iOS and Android application.
 
-## Specification
-You'll create your project using create-react-native-app. There will be no starter code that you need to download.
-
-The specification provided below is the minimum required for this project. You may extend your project as you like, however.
-
