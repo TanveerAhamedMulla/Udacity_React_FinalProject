@@ -1485,8 +1485,8 @@ cookie@0.3.1:
   resolved "https://razr.jfrog.io/razr/api/npm/npm-virtual/cookie/-/cookie-0.3.1.tgz#e7e0a1f9ef43b4c8ba925c5c5a96e806d16873bb"
 
 cookiejar@^2.1.0:
-  version "2.1.1"
-  resolved "https://razr.jfrog.io/razr/api/npm/npm-virtual/cookiejar/-/cookiejar-2.1.1.tgz#41ad57b1b555951ec171412a81942b1e8200d34a"
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/cookiejar/-/cookiejar-2.1.4.tgz#ee669c1fea2cf42dc31585469d193fef0d65771b"
 
 core-js@^1.0.0:
   version "1.2.7"
@@ -4636,6 +4636,10 @@ redux-logger@^2.7.4:
   resolved "https://razr.jfrog.io/razr/api/npm/npm-virtual/redux-logger/-/redux-logger-2.10.2.tgz#3c5a5f0a6f32577c1deadf6655f257f82c6c3937"
   dependencies:
     deep-diff "0.3.4"
+
+redux-thunk@^2.2.0:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/redux-thunk/-/redux-thunk-2.4.2.tgz#b9d05d11994b99f7a91ea223e8b04cf0afa5ef3b"
 
 redux@^3.6.0, redux@^3.7.2:
   version "3.7.2"
